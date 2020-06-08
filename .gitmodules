@@ -1,0 +1,3 @@
+[submodule "themes/hotex"]
+	path = themes/hotex
+	url = https://github.com/cosminilie/hotex.git

@@ -1,0 +1,25 @@
+baseURL = "http://cosminilie.ro/"
+languageCode = "en-us"
+title = "Cosmin's personal website"
+theme = "hotex"
+copyright = "Copyright © 2020, Cosmin Ilie; all rights reserved."
+paginate = 5
+
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3 
+
+  [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+
