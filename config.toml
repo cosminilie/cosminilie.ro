@@ -1,9 +1,10 @@
-baseURL = "http://cosminilie.ro/"
+baseURL = "https://cosminilie.ro/"
 languageCode = "en-us"
 title = "Cosmin's personal website"
 theme = "hotex"
 copyright = "Copyright © 2020, Cosmin Ilie; all rights reserved."
 paginate = 5
+relativeURLs=true
 
 [menu]
   [[menu.main]]
