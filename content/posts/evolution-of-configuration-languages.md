@@ -4,7 +4,7 @@ tags:
 - Pulumi
 - Configuration Management
 - AWS CDK
-title: "Is the golden age of configuration languages ending, and taking DevOps with it?"
+title: "The golden age of configuration languages"
 date: 2020-11-18T10:12:14+02:00
 draft: false
 ---
